@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaiAnhNg
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on game project
+- 👀 I’m interested in Web Development
+- 🌱 My goal is becoming a full stack developer
+- 💞️ I’m looking to collaborate on web and game project
 - 📫 How to reach me: nguyentaianh41099@gmail.com
 
 <!---
